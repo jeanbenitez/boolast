@@ -1,7 +1,7 @@
 {
   "name": "@jeanbenitez/boolast",
   "description": "A very simple logical expression parser to obtain the AST, using JISON.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "logical",
     "expression",
