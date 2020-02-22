@@ -1,5 +1,5 @@
 {
-  "name": "boolast",
+  "name": "@jeanbenitez/boolast",
   "description": "A very simple logical expression parser to obtain the AST, using JISON.",
   "version": "0.0.1",
   "keywords": [
@@ -17,5 +17,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jean Benitez <jkbdiaz@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanbenitez/boolast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeanbenitez/boolast/issues"
+  },
+  "homepage": "https://github.com/jeanbenitez/boolast#readme"
 }
